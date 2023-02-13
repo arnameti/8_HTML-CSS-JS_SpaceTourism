@@ -11,6 +11,7 @@
       <change afterPath="$PROJECT_DIR$/../17_Mapty_Project/data/index.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../17_Mapty_Project/data/running.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../17_Mapty_Project/data/workout.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sass/util/_utilityClasses.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../11_JSProject_LiveUserFilter" beforeDir="false" afterPath="$PROJECT_DIR$/../11_JSProject_LiveUserFilter" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../12_JSProject_InfinityScroll" beforeDir="false" afterPath="$PROJECT_DIR$/../12_JSProject_InfinityScroll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../14_JSProject_ZTM_NasaPictures" beforeDir="false" afterPath="$PROJECT_DIR$/../14_JSProject_ZTM_NasaPictures" afterDir="false" />
@@ -19,6 +20,16 @@
       <change beforePath="$PROJECT_DIR$/../15_JSProject_ZTM-BookKeeper/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../15_JSProject_ZTM-BookKeeper/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../2_JSPoroject_MovieApp" beforeDir="false" afterPath="$PROJECT_DIR$/../2_JSPoroject_MovieApp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../3_JSProjects_Pokedex/pokedex" beforeDir="false" afterPath="$PROJECT_DIR$/../3_JSProjects_Pokedex/pokedex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sass/components/_btn.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/sass/components/_btns.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sass/components/_index.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/sass/components/_index.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sass/globals/_boilerplate.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/sass/globals/_boilerplate.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sass/globals/_colors.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/sass/globals/_colors.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sass/globals/_fonts.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/sass/globals/_fonts.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sass/globals/_typography.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/sass/globals/_typography.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sass/util/_functions.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/sass/util/_functions.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sass/util/_index.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/sass/util/_index.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../8_JSProject_TheGuardianNews" beforeDir="false" afterPath="$PROJECT_DIR$/../8_JSProject_TheGuardianNews" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../9_JSProject_WeatherForeCast" beforeDir="false" afterPath="$PROJECT_DIR$/../9_JSProject_WeatherForeCast" afterDir="false" />
     </list>
@@ -26,6 +37,10 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -57,7 +72,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1676278673320</updated>
-      <workItem from="1676278674548" duration="1974000" />
+      <workItem from="1676278674548" duration="18473000" />
     </task>
     <servers />
   </component>

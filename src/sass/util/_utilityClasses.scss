@@ -1,0 +1,38 @@
+@use 'functions' as f;
+
+.flex {
+  display: flex;
+  gap: var(--gap, f.rem(10));
+}
+
+.grid {
+  display: grid;
+  gap: var(--gap, f.rem(10));
+}
+
+.container {
+  width: min(100% - f.rem(30), f.rem(1280));
+  margin-inline: auto;
+
+  // old:
+  //width: calc(100% - f.rem(30));
+  //max-width: f.rem(1280);
+  //margin-inline: auto;
+
+  // older:
+  //width: 95%;
+  //max-width: f.rem(1280);
+  //margin: 0 auto;
+}
+
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap; /* added line */
+  border: 0;
+}

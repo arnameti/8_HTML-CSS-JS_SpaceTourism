@@ -1,8 +1,12 @@
 @use '../util' as u;
 
 body {
-  background-color: hsl(0, 0%, 100%);
-//   font-family: var(--font-primary);
+  margin: 0;
+  //background-color: var(--clr-white);
+  background-color: darkgray;
+  line-height: 1.5;
+  font-weight: 400;
+  font-family: var(--f-barlow-regular);
 }
 
 ul {
@@ -30,6 +34,70 @@ option {
 //   font-size: clamp(u.rem(22), u.rem(12) + 1.5vw, u.rem(36));
 // }
 
-p {
+h1, h2, h3, h4, h5, h6, p, figure, picture {
   margin: 0;
+}
+
+.heading-1, .heading-2, .heading-3, .heading-4 {
+  font-family: var(--f-bellefair-regular);
+  line-height: 1.1;
+}
+
+.heading-1 {
+  font-size: u.rem(150);
+}
+
+.heading-2 {
+  font-size: u.rem(100);
+}
+
+.heading-3 {
+  font-size: u.rem(56);
+}
+
+.heading-4 {
+  font-size: u.rem(32);
+}
+
+.heading-5 {
+  font-family: var(--f-barlow-condensed-regular);
+  font-size: u.rem(28);
+  letter-spacing: u.rem(4.75);
+}
+
+.subheading-1 {
+  font-family: var(--f-bellefair-regular);
+  font-size: u.rem(28);
+}
+
+.subheading-2 {
+  font-family: var(--f-barlow-condensed-regular);
+  font-size: u.rem(14);
+  letter-spacing: u.rem(2.35)
+}
+
+.nav-text {
+  font-family: var(--f-barlow-condensed-regular);
+  font-size: u.rem(16);
+  letter-spacing: u.rem(2.7);
+}
+
+.numbered-title {
+  font-family: var(--f-barlow-condensed-regular);
+  font-size: u.rem(28);
+  text-transform: uppercase;
+  letter-spacing: u.rem(4.72);
+}
+
+.numbered-title span {
+  margin-right: u.rem(10);
+  font-weight: bold;
+  color: hsla(231, 77%, 90%, .25);
+}
+
+.uppercase { text-transform: uppercase; }
+
+.large-button{
+  display: block;
+  margin: u.rem(150)
 }
