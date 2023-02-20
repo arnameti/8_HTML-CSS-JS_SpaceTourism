@@ -11,7 +11,6 @@
       <change afterPath="$PROJECT_DIR$/../17_Mapty_Project/data/index.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../17_Mapty_Project/data/running.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../17_Mapty_Project/data/workout.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sass/util/_utilityClasses.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../11_JSProject_LiveUserFilter" beforeDir="false" afterPath="$PROJECT_DIR$/../11_JSProject_LiveUserFilter" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../12_JSProject_InfinityScroll" beforeDir="false" afterPath="$PROJECT_DIR$/../12_JSProject_InfinityScroll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../14_JSProject_ZTM_NasaPictures" beforeDir="false" afterPath="$PROJECT_DIR$/../14_JSProject_ZTM_NasaPictures" afterDir="false" />
@@ -22,14 +21,7 @@
       <change beforePath="$PROJECT_DIR$/../3_JSProjects_Pokedex/pokedex" beforeDir="false" afterPath="$PROJECT_DIR$/../3_JSProjects_Pokedex/pokedex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sass/components/_btn.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/sass/components/_btns.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sass/components/_index.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/sass/components/_index.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sass/globals/_boilerplate.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/sass/globals/_boilerplate.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sass/globals/_colors.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/sass/globals/_colors.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sass/globals/_fonts.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/sass/globals/_fonts.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sass/globals/_typography.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/sass/globals/_typography.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sass/util/_functions.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/sass/util/_functions.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sass/util/_index.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/sass/util/_index.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sass/components/_btns.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/sass/components/_btns.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../8_JSProject_TheGuardianNews" beforeDir="false" afterPath="$PROJECT_DIR$/../8_JSProject_TheGuardianNews" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../9_JSProject_WeatherForeCast" beforeDir="false" afterPath="$PROJECT_DIR$/../9_JSProject_WeatherForeCast" afterDir="false" />
     </list>
@@ -50,20 +42,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/arnorameti/Documents/JavaScript-Projects/43_JSProject_SpaceTourism",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/arnorameti/Documents/JavaScript-Projects/43_JSProject_SpaceTourism&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -72,7 +64,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1676278673320</updated>
-      <workItem from="1676278674548" duration="18473000" />
+      <workItem from="1676278674548" duration="21783000" />
+      <workItem from="1676386522174" duration="96000" />
+      <workItem from="1676891207723" duration="6518000" />
     </task>
     <servers />
   </component>

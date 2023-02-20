@@ -1,5 +1,9 @@
 @use '../util' as u;
 
+body {
+  background-color: var(--clr-dark)
+}
+
 .large-button {
   position: relative;
   display: inline-block;
@@ -15,7 +19,6 @@
   padding: u.rem(120) u.rem(65);
   border-radius: 50%;
 }
-
 
 .large-button::before {
   content: '';
@@ -36,3 +39,57 @@
   transform: scale(1.5);
   opacity: 1;
 }
+
+.primary-navigation {
+  font-family: var(--f-barlow-condensed-regular);
+  font-size: u.rem(16);
+  font-weight: 300;
+  text-transform: uppercase;
+  display: flex;
+  gap: u.rem(20);
+}
+
+.primary-navigation li a:link,
+.primary-navigation li a:visited {
+  color: var(--clr-white);
+  letter-spacing: u.rem(2.7);
+}
+
+.primary-navigation li a > span {
+  margin-right: u.rem(7);
+  font-weight: 700;
+}
+
+.underline-indicators > * {
+  cursor: pointer;
+  padding: u.rem(16) 0;
+  border: 0;
+  border-bottom: u.rem(2) solid hsla(0, 0%, 100%, 0);
+}
+
+.underline-indicators > *:hover,
+.underline-indicators > *:focus {
+  border-color: hsla(0, 0%, 100%, .5);
+}
+
+.underline-indicators > .active,
+.underline-indicators > [aria-selected='true'] {
+  border-color: hsla(0, 0%, 100%, 1);
+  border-color: white;
+}
+
+.tab-list {
+  text-transform: uppercase;
+  display: flex;
+  gap: u.rem(25);
+  font-family: var(--f-barlow-condensed-regular);
+}
+
+.tab-list > button {
+  background-color: var(--clr-dark);
+  color: var(--clr-white);
+  letter-spacing: u.rem(2.7);
+}
+
+
+
